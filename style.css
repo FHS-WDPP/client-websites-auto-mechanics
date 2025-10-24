@@ -1,9 +1,9 @@
 :root {
-    --primary-color: #BD632F;
-    --secondary-color: #d8973C;
-    --neutral-color: #D8C99B;
-    --neutral-dark: #273e47;
-    --accent-color: #A4243B;
+    --primary-color: #ffffff;
+    --secondary-color: #000000;
+    --neutral-color: #363636;
+    --neutral-dark: #2e4c58;
+    --accent-color: #e9e62a;
 }
 
 .container {
